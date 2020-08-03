@@ -4,5 +4,8 @@ very rough prototype
 
 requires a `.env` file with an api token:
 ```
-APIKEY=<dev token>
+API_KEY=<dev token>
+
 ```
+
+![](example.png)
